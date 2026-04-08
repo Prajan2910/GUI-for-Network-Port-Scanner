@@ -89,9 +89,13 @@ Ports not listed are shown as Unknown.
 
 ## Project Structure
 cybersecurity/
+
 │
+
 ├── portscanergui.py # Main application (Scanner + GUI)
+
 ├── README.md
+
 └── screenshots/ # (Optional) UI images for GitHub
 
 
